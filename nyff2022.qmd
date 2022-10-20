@@ -6,7 +6,9 @@ listing:
   type: default
   categories: true
   sort-ui: false
+  image-align: right
 page-layout: full
+css: style.css
 title-block-banner: true
 sidebar: false
 ---
