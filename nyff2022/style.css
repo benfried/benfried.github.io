@@ -1,0 +1,33 @@
+div.quarto-post .metadata {
+    display: flex;
+    flex-direction: column;
+    font-size: .8em;
+    font-family: var(--bs-font-sans-serif);
+    flex-basis: max-content;
+}
+
+div.quarto-post {
+    display: flex;
+    gap: 1.5em;
+    margin-bottom: 1em;
+    border-bottom: 1px solid #dee2e6;
+}
+
+div.quarto-post .body {
+    flex-basis: 55%;
+    flex-grow: 1;
+    flex-shrink: 0;
+}
+
+div.quarto-post .thumbnail {
+    flex-basis: 20%;
+    flex-grow: 0;
+    flex-shrink: 1;
+}
+
+div.quarto-post .thumbnail img {
+    object-fit: scale-down;
+}
+img.thumnail-image {
+    height: 150px;
+}
