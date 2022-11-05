@@ -28,8 +28,8 @@ execute:
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: [cosmo, theme.scss]
+#    css: styles.css
     toc: true
 
 #metadata-files:
