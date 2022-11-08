@@ -3,29 +3,33 @@ categories:
 - Historical Drama
 - US
 date: 2022-10-01
-description: The true story of Mamie Till Mobley's pursuit of justice
-  for her son Emmett.
+description: "The true story of Mamie Till Mobley's pursuit of justice
+  for her son Emmett."
 format:
   html:
     toc: true
 image: poster.jpg
+categories: ["Maybe See it", "Drama", "Biographical Drama", "US"]
 title: Till
 ---
+::: {.column-margin}
+[<img src="poster.jpg" height="300"/>](https://www.imdb.com/title/tt4960748/)
+:::
 
 ## BLUF
 
 Emmett Till\'s story is an outrage, part of our long dark history of
-racism. His mother, Mamie Till Mobley, is a hero who fought for justice
-for her son, and to make sure that his story was told.
+racism. His mother, Mamie Till Mobley, is a civil rights hero who fought
+for justice for her son, and to make sure that his story was told.
 
 The movie has some tremendous performances, foremost Danielle
 Deadwyler\'s. However it came off as painfully didactic. A worthy
 subject, but the script does not live up to the material nor to the
 talents of the cast.
 
+## Plot
 <details>
 <summary>Spoilers</summary>
-### Plot
 
 Emmett Till was a 14-year-old African-American boy from Chicago, who
 went to Mississippi to visit his cousins. While there he was abducted,
