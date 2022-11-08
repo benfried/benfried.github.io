@@ -1,7 +1,4 @@
 ---
-categories:
-- Historical Drama
-- US
 date: 2022-10-01
 description: "The true story of Mamie Till Mobley's pursuit of justice
   for her son Emmett."
