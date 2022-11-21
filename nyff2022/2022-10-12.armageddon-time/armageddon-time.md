@@ -12,11 +12,11 @@ image: poster.jpg
 
 ## BLUF
 
-This is a biopic, from the life of director James Gray. It takes place
-in the Fall of 1980, when he was in sixth grade. With the election of
-Ronald Reagan in the background, it's a story about innocence lost, for
-Paul, the protagonist, as well as for America, about fitting in versus
-doing the right thing, about taking accountability.
+This is writer/director James Gray's biopic. It takes place in the Fall
+of 1980, when he was in sixth grade. With the election of Ronald Reagan
+in the background, it's a story about innocence lost, for Paul, the
+protagonist, as well as for America, about fitting in versus doing the
+right thing, about taking accountability.
 
 That sounds heavy and moralistic, but it's not. The story is so
 personal, and the performances so true, that it never feels didactic or
