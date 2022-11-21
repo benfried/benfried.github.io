@@ -12,9 +12,9 @@ image: poster.jpg
 
 ## BLUF
 
-Is "Reporting Procedural" a genre? **All The President's Men**,
-**Spotlight**, **The Post**; **She Said** is cut from the same cloth; it
-tells the story of Jodi Kantor and Megan Twohey's exposing of Harvey
+Is "Reporting Procedural" officially a genre? **All The President's Men**,
+**Spotlight**, **The Post**; **She Said** is cut from the same cloth. It
+tells the story of Jodi Kantor and Megan Twohey's reporting on Harvey
 Weinstein's many, many crimes against women and how they were covered up
 by his enablers.
 
@@ -27,18 +27,18 @@ coming out? All over gain, I felt such rage at Weinstein and, even more,
 at the legions of people who helped him. 82 women have gone on the
 record as being victims of Weinstein. 
 
-The cast is truly terrific. Carey Mulligan's portrayal of Megan Twohey
-is almost an impression.
-
+The cast is uniformly terrific, especially the leads. It was a trip to
+see Megan Twohey on stage with Carey Mulligan, and to experience how
+much Mulligan became Twohey, nailing her voice and her mannerisms.
 
 ## Notes from the screening
 
-All those helpers: lawyers, PR people, payers of hush money, they're
-really accomplices.
-
-The cast is terrific. It was a trip to see Megan Twohey on stage with
-Carey Mulligan, and to experience how much Mulligan did to become
-Twohey, to nail her voice and her physicality.
+Even weeks after seeing the movie, I kept coming back to all those
+helpers: lawyers, PR people, payers of hush money, they're accomplices
+or worse. How many women might have been saved if Weinstein hadn't had
+the protection of so many lawyers, publicists, helpers. There is a
+terrible truth about our system and how it can be perfectly legal and
+ethical to be in the business of protecting the powerful from justice.
 
 
 ![*Jodi Kantor, Megan Twohey, Zoe Kazan, and Carey Mulligan*](PXL_20221014_002733043.NIGHT.jpg)

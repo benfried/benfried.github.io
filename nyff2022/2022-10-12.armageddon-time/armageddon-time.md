@@ -19,19 +19,21 @@ Paul, the protagonist, as well as for America, about fitting in versus
 doing the right thing, about taking accountability.
 
 That sounds heavy and moralistic, but it's not. The story is so
-personal, and the performances so true, that everything all works. The
-actors are excellent: you might think that the big stars would overrun
-something so intimate, but they don't. (There is a delightful cameo by
-Jessica Chastain that heads a little in that territory).
+personal, and the performances so true, that it never feels didactic or
+preachy. The actors are excellent: you might think that the big stars
+would overrun something so intimate, but they don't. (There *is* a
+delightful cameo by Jessica Chastain that heads a little in that
+territory).
 
 ## Why should you see it?
 
 I could boil it down and truthfully say that it's a coming of age story,
-set in a time and place of great interest, with great performances. But
-more importantly, I think, what makes it really stand out is that every
-character is real: no one is all good or bad, everyone has good moments
-and not so good moments. There is so much understanding, so much
-texture. 
+set in a time and place of great interest, with great performances. We
+see differences in race and class take two similar boys down two
+very different paths. But more importantly, I think, what makes it stand
+out is that every character is real: no one is all good or bad, almost
+everyone has good moments and not so good moments. There is so much
+understanding, so much texture.
 
 A number of Gray's movies (**Little Odessa**, **The Lost City of Z**)
 have been on my "watch one day" list, but the only film of his I'd seen
@@ -47,7 +49,7 @@ its audience to understand the mix of good and and bad in its
 characters.
 
 I love movies that make me feel entertained. But, most entertainments
-leave me with a memory of thrills and little more. **Armageddon Time**
+leave an echo of adrenaline and little more. **Armageddon Time**
 made me feel like I had understood its characters, and that I had an
 emotional understanding of people, a moment in time, parts of a life.
 There's something sort of magic about that.
@@ -65,8 +67,6 @@ Jeremy Strong's technique and preparation get a lot of attention, and
 there was a question asked about that; he did spend time with Gray's
 father (or perhaps with videos of Gray's father? I don't have notes) and
 spoke a bit about the preparation helping him to be a "vessel".
-
-
 
 ![*Anne Hathaway, Jeremy Strong, and James Gray*](PXL_20221013_002059447.NIGHT.jpg)
 
