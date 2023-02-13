@@ -13,4 +13,3 @@ about the movies and turn that into notes here.
 
 This whole thing is a big personal experiment, so expect it to change.
 
-![My Discord Verification](discord-proof.jpg)
