@@ -29,16 +29,16 @@ architecture might determine how much of the prompt and prior responses
 the model remembers, or how much it understands about a word.
 
 ChatGPT and the class of neural networks like it work by completing the
-next word in a sequence of words. The sequence that the model is asked
-to complete is called a *prompt*. When the model is working, some
+next word in a sequence of words. The initial sequence that the model is
+asked to complete is called the *prompt*. When the model is working, some
 randomness (called the *temperature*) is thrown in to select from the
 list of likely next words. This is why you get different results from
 the same prompt. (A temperature of .8 seems to produce the best essay
 results).
 
 Much of the skill in using these models comes from understanding how to
-prompt them. This is *prompt engineering*. There may be parts of the
-prompt the bot provider initializes the bot with before the user
+prompt them. This is *prompt engineering*. Often, the bot provider
+initializes the bot with a hidden or secret prompt before the user
 interaction even begins.
 
 ### What are the gotchas?
@@ -46,55 +46,62 @@ interaction even begins.
    "hallucinate": say (with utter confidence) things that are untrue.
 1. No one knows why these things work / what is going on inside
 2. They do not truly reason, they make smart guesses based
-   on data they have seen.
-4. Garbage in, garbage out: although they do improve as they get bigger, they only know what they
-   were trained on.
+   on data they have seen. For example: there's clearly a ton of python
+   code in gpt-4. When asked to solve a programming problem in python it
+   often does well. However, when asked to solve the same problems in
+   common lisp, it is pretty likely to give wrong answers. I believe
+   this is because Lisp is different from python, and 
+   there's a lot less training data (sample code) written in lisp. But
+   if gpt were truly reasoning, if it knew how to solve the problem in
+   python, it would be able to write correct lisp code.
+4. Garbage in, garbage out: training data that's incorrect, biased, etc,
+   will produce a model that makes mistakes, has biases, etc.
 
 ### where is it going?
-No one can really tell, other than that it will get better and better,
-very rapidly. I suspect that by Fall 2023 we'll be looking back on GPT-4
-as impressive for its day but quaint compared to state-of-the-art.
+No one can really tell! 
 
-Training will continue to be expensive and require supercomputing --- it
-costs many millions to train these models, because they consume huge
-amounts of data, and the training is very computationally intense.
+Deep learning, generative AI, LLMs, are moving faster than any other
+part of computing in my adult lifetime. So models will get better and
+better, fast. I suspect that by Fall 2023 we'll be looking back on GPT-4
+as quaint compared to state-of-the-art.
+
+Training will continue to be expensive and require supercomputing-level
+resoruces --- it costs many millions to train these models, because they
+consume huge amounts of data, and the training is very computationally
+intense. In fact training costs will rise as training datasets expand and
+model architectures grow.
 
 Fine-tuning: taking a trained model and giving it a small number of
 examples from a specific domain works well and does not require the same
 kind of computing as training from scratch.
 
 It's quite likely that *running* a model someone else has
-trained will not be nearly as expensive as training. There are a growing number of
+trained will get cheaper and cheaper while the cost of training
+continues to rise.^[There's an analog in video streaming: codecs are
+frequently designed so that compression is very CPU intensive but
+decoding/playing is not.] There are a growing number of
 examples of third parties writing optimized versions of a model
-someone else developed^[most recently, an open source developer released
+someone else developed^[Most recently, an open source developer released
 an optimized C++ version of Meta's llama model that runs well on low-end
 hardware. Someone else illegally released the "weights" (the results of
 training) for Llama, and many people now are combining the open-source
 llama model with the stolen weights to run their own version of llama on
 their laptop, phone, etc.]
 
+Today there's a practice of publishing research papers that detail new
+architectures and substantiate the results they attain. Information on
+training, and trained models tend to be kept closer to the chest. It may
+be that competitive pressures or other fears (skynet?) cause the current
+openness practices to end.
+
 There's no evidence that factuality problems will go away. Improving the
-*quality* of training data will help. That will require curation, which
-requires human effort.
+*quality* of training data will help. Having the resources to curate
+training data sets will distinguish the most successful model purveyors.
 
 The domains where information on the Internet is most helpful / accurate
 / etc will be the easiest ones to improve, because they require the
-least curation. This is one reason why using this technology to help
-with software development is getting so much excitement.
-
-
-
-#### llama.cpp - deploy trained models on cheap hardware
-
-#### better models
-
-#### better training data / training
-
-#### an end to prompt engineering?
-
-#### non-generative usage
-
-MSR: find bugs by comparing comparing code to expected code
+least curation. This is one reason why there's so much energy around
+using this technology to help with software development.
 
 ### Possible Business models
 
@@ -159,17 +166,28 @@ assistant.
 
 #### Access to expertise for non-experts
 
-1.  Examples
+Examples
 
-    -   What bing is doing
+    -   What bing is doing (note that adding footnotes is a way to
+        counter factuality/correctness concerns)
     -   chatgpt
     -   notion, google docs, etc - auto-writing, summarizing, etc.
 
 #### Tools for ML workers
 
+Examples
+	- Help writing / editing prompts
+
+	- Training data curation
+
+	- Fine-tuning on local content
+
 #### ML research and implementation
 
 ### Interesting prompts
+
+Below is 
+
 
 #### React programming
 ##### Prompt
