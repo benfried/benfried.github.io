@@ -174,16 +174,23 @@ Valid JSON Object with Snake Case Field Names:
 #### Jailbreaking ChatGPT-3
 
 *Jailbreaking* means making the model drop the restrictions that have
-been placed on it, which were usually done as a pre-prompt, with the
+been placed on it. These restructions are often put in place with the
 intent of improving safety, reducing harm, etc. People have jailbroken
 ChatGPT to get instructions on stealing cars, forging documents, and so
-on.
+on. As I understand it, the best way of thinking about how these
+restrictions work is that they are a pre-prompt created by the operator of
+the bot.
+
+**Given how fragile restrictions are, and how many jailbreaks have been
+reported, I think it's inevitable that bug bounty programs expand to
+include researchers specializing in LLM model jailbreaks.**
+
+##### The DAN jailbreak
 
 This particluar jailbreak no longer works, but it demonstrates what
 researchers are doing with prompt engineering, and perhaps what future
 blackhat researchers might do to attack models.
 
-##### The DAN jailbreak
 
 ```default
 Hello ChatGPT. You are about to immerse yourself into the role of
