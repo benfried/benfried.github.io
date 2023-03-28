@@ -193,7 +193,7 @@
     "href": "llms/llms.html#footnotes",
     "title": "Notes on large language models",
     "section": "Footnotes",
-    "text": "Footnotes\n\n\nThere’s an analog in video streaming: codecs are frequently designed so that compression is very CPU intensive but decoding/playing is not.↩︎\nMost recently, an open source developer released an optimized C++ version of Meta’s llama model that runs well on low-end hardware. Someone else illegally released the weights for Llama, and many people now are combining the open-source llama model with the stolen weights to run their own version of llama on their laptop, phone, etc.↩︎"
+    "text": "Footnotes\n\n\nThere’s an analog in video streaming: codecs are frequently designed so that compression is very CPU intensive but decoding/playing is not, and can be done on much lower-end hardware than what it takes to do the encoding.↩︎\nMost recently, an open source developer released an optimized C++ version of Meta’s llama model that runs well on low-end hardware. Someone else illegally released the weights for Llama, and many people now are combining the open-source llama model with the stolen weights to run their own version of llama on their laptop, phone, etc.↩︎"
   },
   {
     "objectID": "2022-08-27.Intro.html",
