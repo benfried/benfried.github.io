@@ -134,7 +134,7 @@ react using state
 ![](react.png)
 
 
-#### parse unstructured text and convert to a useful format
+#### Parse unstructured text and convert to a useful format
 ##### Prompt
 
 ```default
