@@ -94,9 +94,10 @@ It's quite likely that *running* a model someone else has trained will
 get cheaper and cheaper while the cost of training continues to
 rise.^[There's an analog in video streaming: codecs are frequently
 designed so that compression is very CPU intensive but decoding/playing
-is not.] There are a growing number of examples of third parties writing
+is not, and can be done on much lower-end hardware than what it takes to
+do the encoding.] There are a growing number of examples of third parties writing
 optimized versions of a model someone else developed^[Most recently, an
-open source developer released an optimized C++ version of Meta's llama
+open source developer released an [optimized C++ version](https://github.com/ggerganov/llama.cpp) of Meta's llama
 model that runs well on low-end hardware. Someone else illegally
 released the weights for Llama, and many people now are combining the
 open-source llama model with the stolen weights to run their own version
