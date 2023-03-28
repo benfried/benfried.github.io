@@ -14,4 +14,5 @@ format:
   html:
     theme: cosmo
     toc: true
+    toc-depth: 4
     code-fold: true

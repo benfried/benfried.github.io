@@ -3,6 +3,7 @@ title: Notes on large language models
 format:
   html:
     code-fold: true
+    toc-depth: 5
 ---
 
 ### Goals
