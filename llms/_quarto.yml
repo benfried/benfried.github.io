@@ -10,9 +10,15 @@ execute:
   freeze: auto
   eval: false
 
+comments:
+  hypothesis:
+    theme: clean
+
 format:
   html:
     theme: cosmo
     toc: true
     toc-depth: 4
     code-fold: true
+
+  

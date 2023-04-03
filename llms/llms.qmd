@@ -4,6 +4,9 @@ format:
   html:
     code-fold: true
     toc-depth: 5
+    comments:
+      hypothesis:
+        theme: clean
 ---
 
 ### Goals
@@ -54,9 +57,9 @@ apparently named the bot Sydney, and gave extensive instructions to
 encourage safety.
 
 ### What are the gotchas?
-1. They do not (yet) understand what's fact and what's not. So they
-   *hallucinate*: say (with utter confidence) things that are untrue.
-   Some people refer to this as the factuality problem.
+1. They do not (yet, or perhaps ever) understand what's fact and what's
+   not. So they *hallucinate*: say (with utter confidence) things that
+   are untrue. Some people refer to this as the factuality problem.
 1. No one really knows why these things produce such good results, or
    what is going on inside, except at a pretty superficial level.
 2. They do not truly reason, they make smart guesses based on data they
