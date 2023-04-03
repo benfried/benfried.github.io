@@ -11,8 +11,8 @@ execute:
   eval: false
 
 comments:
-  hypothesis: true
-
+  hypothesis:
+    theme: classic
 
 format:
   html:
