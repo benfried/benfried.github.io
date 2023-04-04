@@ -10,10 +10,6 @@ execute:
   freeze: auto
   eval: false
 
-comments:
-  hypothesis:
-    theme: classic
-
 format:
   html:
     theme: cosmo
