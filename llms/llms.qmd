@@ -265,7 +265,7 @@ The links he gives are all worth a scan ---
 
 <https://rodneybrooks.com/what-will-transformers-transform/>
 
-Gary Marcus, an NYU professors who's an AI expert and GPT skeptic has a
+Gary Marcus, an NYU professor who's an AI expert and GPT skeptic has a
 very good substack --- I think he's overly pessimistic but his is a
 highly informed opinion and I learn something every time I read one of
 his postings.
@@ -274,9 +274,13 @@ his postings.
 
 Our friends at Oxide just did a podcast on how chatgpt will affect
 software engineering. Worth a listen at 1.5x the next time you're in the
-car or gardening or whatever. Bryan Cantrill is more optimistic about the future
-of human software engineers than I am (reflecting his experience in tech
-companies and his own exceptional skills and creativity).
+car or gardening or whatever. Bryan Cantrill is more optimistic about
+the future of human software engineers than I am (reflecting his
+experience in tech companies and his own exceptional skills and
+creativity). I suspect that there's a lot of the more common software
+development, especially the kind of programming that centers on
+CRUD-centric business software, that we soon may not need nearly as many
+humans to produce or maintain.
 
 <https://share.transistor.fm/s/34d70bd5>
 
@@ -306,11 +310,11 @@ the secion on fine-tuning of models is worth a read ---
 
 ### Concluding thoughts
 
-If you've gotten this far, my current (end of March 20223) opinion of
-chatgpt and its ilk is that their greated strength is in domains where
-there is the most training material. Perhaps more importantly, they are
-most likely to produce disappointing or inconsistent results in areas
-where they have the least training.
+If you've gotten this far, I'd like to share my current (end of March
+20223) opinion of chatgpt and its ilk. This is rather obvious, but they
+seem strongest in domains where there is the most training material.
+Perhaps more importantly, they are most likely to produce disappointing
+or inconsistent results in areas where they have the least training.
 
 Gpt has been trained on lots of source code (including all of GitHub),
 so it's very strong at answering questions about coding and software,
