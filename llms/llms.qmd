@@ -4,11 +4,9 @@ format:
   html:
     code-fold: true
     toc-depth: 5
-    comments:
-      hypothesis:
-        theme: clean
 comments:
-  hypothesis: true
+  hypothesis: 
+    theme: classic
 ---
 
 ### Goals
