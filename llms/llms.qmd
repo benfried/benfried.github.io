@@ -333,7 +333,7 @@ etc, out there than anything else.
 This section is the worst of the bunch; I'm not at all happy with it,
 but I'm including it so you can have a sense of where my head is.
 
-#### replacing experts
+#### Replacing experts
 
 1. How much of what paralegals or junior accountants (for example) can
    be automated away by ChatGPT: where the bulk of the job is to
@@ -347,7 +347,7 @@ but I'm including it so you can have a sense of where my head is.
    ChatGPT could with some fine tuning be able to be a virtual data
    analyst, driving those other tools.
 
-#### tools for \"experts\"
+#### Tools for \"experts\"
 
 SaaS that offers ML-powered productivity accelerators for high-skilled
 knowledge work. Although replacing such roles is not out of the
