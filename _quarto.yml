@@ -15,6 +15,8 @@ website:
         text: Home
       - href: nyff2022.html
         text: "The 2022 New York Film Festival"
+      - href: llms.html
+        text: "Postings on LLMs"
 
 #  sidebar:
 #    style: "floating"
