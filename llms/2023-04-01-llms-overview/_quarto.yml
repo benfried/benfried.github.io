@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "Notes on ChatGPT and LLMs"
+  image: chatgpt-icon.png
+  open-graph:
+    locale: en-US
+  toc: true
+  toc-depth: 5
+
+# format:
+#   html:
+#    theme: cosmo
+#    toc: true
+#    toc-depth: 5
+#    code-fold: true
+
+  
