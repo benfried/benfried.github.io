@@ -13,5 +13,13 @@
       "/nyff2022/2022-10-01.master-gardener/master-gardener.html",
       "/nyff2022/2022-09-30.white-noise/white-noise.html"
     ]
+  },
+  {
+    "listing": "/llms.html",
+    "items": [
+      "/llms/2023-04-16-training-llms/training.html",
+      "/llms/2023-04-05-BloombergGPT/bloomgberggpt.html",
+      "/llms/2023-04-01-llms-overview/llms.html"
+    ]
   }
 ]
