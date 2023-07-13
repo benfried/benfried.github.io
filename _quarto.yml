@@ -18,7 +18,7 @@ website:
       - href: llms.html
         text: "Postings on LLMs"
       - href: assets/bf-id-badge.jpg
-        text: "The old badge"
+        text: ""
 
 #  sidebar:
 #    style: "floating"
