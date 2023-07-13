@@ -1,1 +1,1 @@
-Sitemap: https://github.com/benfried/benfried.github.io/sitemap.xml
+Sitemap: https://benfried.github.io/sitemap.xml
